@@ -29,7 +29,7 @@
 <br />
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TSHEPO-CLOUD&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/tshepomolefe
