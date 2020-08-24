@@ -32,6 +32,6 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TSHEPO-CLOUD&show_icons=true&hide_border=true" />
 
 
-[twitter]: https://twitter.com/tshepomolefe
+[twitter]: https://twitter.com/tshepomolefem
 [instagram]: https://instagram.com/tshepomolefe
 [linkedin]: https://linkedin.com/in/tshepomolefe
