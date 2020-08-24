@@ -33,5 +33,5 @@
 
 
 [twitter]: https://twitter.com/tshepomolefem
-[instagram]: https://instagram.com/tshepomolefe
+[instagram]: https://instagram.com/tshepo.molefe.37
 [linkedin]: https://linkedin.com/in/tshepomolefe
