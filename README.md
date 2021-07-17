@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on finnishing the Micrverse course !
 - 🌱 I’m currently learning full stack web developer 🤣
 - 👯 I’m looking to collaborate with other person to improve my knowldge
-- 🥅 2020 Goals: commit more to my Github Profile
+- 🥅 2021 Goals: commit more to my Github Profile
 - ⚡ Fun fact: I love to travel and see different  culturs
 
 ### Connect with me:
@@ -24,6 +24,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <br />
 <br />
